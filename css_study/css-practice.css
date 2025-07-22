@@ -1,0 +1,25 @@
+#sentences {
+    font-size : 15px;
+    color : red;
+    font-weight : bold;
+}
+#p2 {
+    border : solid 1px red ;
+}
+#q3 {
+    border-left : dotted 1px blue;
+    border-bottom : dotted 1px blue;
+}
+#q4 {
+    background-color: yellow ;
+    width: 500px;
+    height : 200px;
+}
+#q5 {
+    margin : 50px;
+    padding : 20px;
+    border : solid 1px red;
+}
+p {
+    text-align: center;
+}
